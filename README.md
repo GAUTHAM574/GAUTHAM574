@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GAUTHAM574
-- 👀 I’m interested in coding,exploring new and unexplainable things and managment 
-- 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding,exploring new and unexplainable things
 - 📫 How to reach me ... reach me on my linkedin https://www.linkedin.com/in/gautham-s-a216a322b/
 
 <!---
