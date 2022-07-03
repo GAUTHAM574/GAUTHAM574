@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GAUTHAM574
-- 👀 I’m interested in coding,exploring new and unexplainable things
+- 👀 I’m interested in c++,c,webdev
 - 📫 How to reach me ... reach me on my linkedin https://www.linkedin.com/in/gautham-s-a216a322b/
 
 <!---
