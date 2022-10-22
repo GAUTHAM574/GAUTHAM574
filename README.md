@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GAUTHAM574
 - 👀 I’m interested in c++,c,webdev
+-I like to keep things simple and easy
 - 📫 How to reach me ... reach me on my linkedin https://www.linkedin.com/in/gautham-s-a216a322b/
 
 <!---
